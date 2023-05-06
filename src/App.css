@@ -3,3 +3,12 @@
   text-align: center;
 
 }
+.nav-item .active{
+  border-bottom: 2px solid blueviolet;
+  font-weight: bold;
+  color: blueviolet !important;
+}
+.mask-custom {
+  backdrop-filter: blur(3px);
+  background-color: rgba(238, 234, 240, 0);
+}
