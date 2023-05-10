@@ -13,10 +13,8 @@ const UserManager = () => {
 
     };
     useEffect(() => {
-    
         fetchUserData();
     }, [])
-    
     
   return (
     <div>
